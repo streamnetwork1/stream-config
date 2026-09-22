@@ -1,15 +1,5 @@
 {
-  "channels": [
-    {
-      "id": "ch_1790112802378",
-      "badge": "SS",
-      "name": "ss",
-      "sub": "ss",
-      "type": "live",
-      "url": "ss",
-      "rawUrl": "ss"
-    }
-  ],
+  "channels": [],
   "notifications": [],
   "system": {
     "enabled": true,
