@@ -2,12 +2,24 @@
   "channels": [],
   "notifications": [],
   "system": {
-    "enabled": false
+    "enabled": true,
+    "name": "SYSTEM",
+    "badge": "SYS",
+    "msg": "We'll Be Right Back",
+    "submsg": "Stay tuned · Broadcasting resumes shortly",
+    "desc": "Technical break in progress",
+    "position": "top"
   },
-  "about": {},
-  "adsense": {
-    "clientId": "",
-    "slots": {}
+  "about": {
+    "name": "STREAM Owner",
+    "role": "Broadcaster · Content Creator",
+    "tag": "OFFICIAL",
+    "initials": "ST",
+    "about": "Welcome to STREAM — your home for live broadcasts, music, cinema and more.",
+    "email": "owner@example.com",
+    "telegram": "@yourusername",
+    "whatsapp": "1234567890",
+    "youtube": "@yourchannel"
   },
   "screenSize": {
     "w": "",
@@ -15,6 +27,13 @@
     "label": "Auto"
   },
   "playerSandbox": {
+    "enabled": false
+  },
+  "adsense": {
+    "publisher": "",
+    "slotHeader": "",
+    "slotSidebar": "",
+    "slotFooter": "",
     "enabled": false
   }
 }
