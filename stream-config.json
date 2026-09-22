@@ -19,14 +19,7 @@
       "rawUrl": "ss"
     }
   ],
-  "notifications": [
-    {
-      "id": "n_1790112560580",
-      "title": "dd",
-      "body": "dd",
-      "ts": 1790112560580
-    }
-  ],
+  "notifications": [],
   "system": {
     "enabled": true,
     "name": "SYSTEM",
