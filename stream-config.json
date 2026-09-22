@@ -10,7 +10,14 @@
       "rawUrl": "https://cinesrc.st/embed/movie/1084242"
     }
   ],
-  "notifications": [],
+  "notifications": [
+    {
+      "id": "n_1790116007116",
+      "title": "HI",
+      "body": "",
+      "ts": 1790116007116
+    }
+  ],
   "system": {
     "enabled": false,
     "name": "SYSTEM",
