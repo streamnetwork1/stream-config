@@ -1,15 +1,6 @@
 {
   "channels": [
     {
-      "id": "ch_1790112765090",
-      "badge": "SS",
-      "name": "ss",
-      "sub": "ss",
-      "type": "live",
-      "url": "ss",
-      "rawUrl": "ss"
-    },
-    {
       "id": "ch_1790112802378",
       "badge": "SS",
       "name": "ss",
@@ -40,19 +31,26 @@
     "whatsapp": "1234567890",
     "youtube": "@yourchannel"
   },
+  "adsense": {
+    "enabled": false,
+    "clientId": "",
+    "slots": {
+      "sidebar": "",
+      "player": "",
+      "mobile": "",
+      "infeed": ""
+    },
+    "publisher": "",
+    "slotHeader": "",
+    "slotSidebar": "",
+    "slotFooter": ""
+  },
   "screenSize": {
     "w": "",
     "h": "",
     "label": "Auto"
   },
   "playerSandbox": {
-    "enabled": false
-  },
-  "adsense": {
-    "publisher": "",
-    "slotHeader": "",
-    "slotSidebar": "",
-    "slotFooter": "",
     "enabled": false
   }
 }
