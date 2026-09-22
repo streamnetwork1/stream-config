@@ -41,6 +41,6 @@
     "label": "Auto"
   },
   "playerSandbox": {
-    "enabled": false
+    "enabled": true
   }
 }
