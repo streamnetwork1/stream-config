@@ -2,7 +2,7 @@
   "channels": [],
   "notifications": [],
   "system": {
-    "enabled": true,
+    "enabled": false,
     "name": "SYSTEM",
     "badge": "SYS",
     "msg": "We'll Be Right Back",
