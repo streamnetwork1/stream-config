@@ -1,13 +1,6 @@
 {
   "channels": [],
-  "notifications": [
-    {
-      "id": "n_1790114774485",
-      "title": "hellow",
-      "body": "sadew yapa",
-      "ts": 1790114774485
-    }
-  ],
+  "notifications": [],
   "system": {
     "enabled": true,
     "name": "SYSTEM",
