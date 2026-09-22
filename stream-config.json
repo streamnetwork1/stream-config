@@ -1,0 +1,20 @@
+{
+  "channels": [],
+  "notifications": [],
+  "system": {
+    "enabled": false
+  },
+  "about": {},
+  "adsense": {
+    "clientId": "",
+    "slots": {}
+  },
+  "screenSize": {
+    "w": "",
+    "h": "",
+    "label": "Auto"
+  },
+  "playerSandbox": {
+    "enabled": false
+  }
+}
