@@ -1,6 +1,13 @@
 {
   "channels": [],
-  "notifications": [],
+  "notifications": [
+    {
+      "id": "n_1790112560580",
+      "title": "dd",
+      "body": "dd",
+      "ts": 1790112560580
+    }
+  ],
   "system": {
     "enabled": true,
     "name": "SYSTEM",
