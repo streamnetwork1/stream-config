@@ -1,15 +1,5 @@
 {
-  "channels": [
-    {
-      "id": "ch_1790115905199",
-      "badge": "FILM",
-      "name": "ZOOTOPIA 2",
-      "sub": "movie",
-      "type": "yt",
-      "url": "https://cinesrc.st/embed/movie/1084242",
-      "rawUrl": "https://cinesrc.st/embed/movie/1084242"
-    }
-  ],
+  "channels": [],
   "notifications": [],
   "system": {
     "enabled": false,
