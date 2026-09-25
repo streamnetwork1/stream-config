@@ -1,13 +1,6 @@
 {
   "channels": [],
-  "notifications": [
-    {
-      "id": "n_1790358920874",
-      "title": "hellow how are you",
-      "body": "Sadew Yapa",
-      "ts": 1790358920874
-    }
-  ],
+  "notifications": [],
   "system": {
     "enabled": false,
     "name": "SYSTEM",
