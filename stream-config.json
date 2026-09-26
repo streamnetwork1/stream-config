@@ -1,6 +1,13 @@
 {
   "channels": [],
-  "notifications": [],
+  "notifications": [
+    {
+      "id": "n_1790442081812",
+      "title": "Hi I am STREAM NETWORK",
+      "body": "",
+      "ts": 1790442081812
+    }
+  ],
   "system": {
     "enabled": true,
     "name": "SYSTEM",
