@@ -1,5 +1,15 @@
 {
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch_1790442177213",
+      "badge": "STN",
+      "name": "STREAM NETWORK",
+      "sub": "",
+      "type": "live",
+      "url": "file:///G:/STREAM%20NETWORK/STREAM%20NETWORK%20chanels/STREAM-statup%20chanel%202.html",
+      "rawUrl": "file:///G:/STREAM%20NETWORK/STREAM%20NETWORK%20chanels/STREAM-statup%20chanel%202.html"
+    }
+  ],
   "notifications": [
     {
       "id": "n_1790442081812",
