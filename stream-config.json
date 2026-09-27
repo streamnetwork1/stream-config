@@ -1,15 +1,6 @@
 {
   "channels": [
     {
-      "id": "ch_1790455278227",
-      "sub": "",
-      "url": "https://streamnetwork1.github.io/streamnetworkchanel/",
-      "name": "STREAM NETWORK",
-      "type": "live",
-      "badge": "ST",
-      "rawUrl": "https://streamnetwork1.github.io/streamnetworkchanel/"
-    },
-    {
       "id": "ch_1790524860959",
       "sub": "DJSnakeVEVO",
       "url": "https://www.youtube.com/embed/zNl00mOSnJI?autoplay=1&controls=1&rel=0",
