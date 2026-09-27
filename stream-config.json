@@ -43,7 +43,7 @@
     }
   ],
   "system": {
-    "enabled": false,
+    "enabled": true,
     "name": "SYSTEM",
     "badge": "SYS",
     "msg": "We'll Be Right Back",
