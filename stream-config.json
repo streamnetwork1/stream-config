@@ -8,6 +8,24 @@
       "type": "live",
       "badge": "ST",
       "rawUrl": "https://streamnetwork1.github.io/streamnetworkchanel/"
+    },
+    {
+      "id": "ch_1790524860959",
+      "sub": "DJSnakeVEVO",
+      "url": "https://www.youtube.com/embed/zNl00mOSnJI?autoplay=1&controls=1&rel=0",
+      "name": "DJ Snake, J Balvin, Tyga - Loco Contigo",
+      "type": "yt",
+      "badge": "YT",
+      "rawUrl": "https://www.youtube.com/watch?v=zNl00mOSnJI"
+    },
+    {
+      "id": "ch_1790526405997",
+      "badge": "HD",
+      "name": "Spider-Man: Brand New Day",
+      "sub": "2026",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/movie/969681",
+      "rawUrl": "https://cinesrc.st/embed/movie/969681"
     }
   ],
   "notifications": [
