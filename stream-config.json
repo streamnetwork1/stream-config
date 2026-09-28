@@ -51,6 +51,7 @@
     "enabled": true
   },
   "_meta": {
-    "updatedAt": 1790567348518
+    "activeProvider": "supabase",
+    "pointerAt": 1790565549673
   }
 }
