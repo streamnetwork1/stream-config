@@ -19,7 +19,7 @@
     }
   ],
   "system": {
-    "enabled": true,
+    "enabled": false,
     "name": "SYSTEM",
     "badge": "SYS",
     "msg": "We'll Be Right Back",
@@ -61,6 +61,6 @@
     "enabled": true
   },
   "_meta": {
-    "updatedAt": 1790567039679
+    "updatedAt": 1790567059779
   }
 }
