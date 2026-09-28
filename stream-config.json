@@ -1,16 +1,12 @@
 {
-  "channels": [
-    {
-      "id": "ch_1790563436632",
-      "badge": "YT",
-      "name": "ITZY LOCO Lyrics (잇지 LOCO 가사) (Color Coded Lyrics)",
-      "sub": "Jaeguchi",
-      "type": "yt",
-      "url": "https://www.youtube.com/embed/YfjWM50PHGI?autoplay=1&controls=1&rel=0",
-      "rawUrl": "https://www.youtube.com/watch?v=YfjWM50PHGI"
-    }
-  ],
+  "channels": [],
   "notifications": [
+    {
+      "id": "n_1790563667806",
+      "title": "dd",
+      "body": "ddd",
+      "ts": 1790563667806
+    },
     {
       "id": "n_1790452984684",
       "ts": 1790452984684,
@@ -19,7 +15,7 @@
     }
   ],
   "system": {
-    "enabled": false,
+    "enabled": true,
     "name": "SYSTEM",
     "badge": "SYS",
     "msg": "We'll Be Right Back",
@@ -61,7 +57,7 @@
     "enabled": true
   },
   "_meta": {
-    "activeProvider": "supabase",
-    "pointerAt": 1790563554343
+    "activeProvider": "github",
+    "pointerAt": 1790563712229
   }
 }
