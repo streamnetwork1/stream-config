@@ -1,5 +1,15 @@
 {
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch_1790563436632",
+      "badge": "YT",
+      "name": "ITZY LOCO Lyrics (잇지 LOCO 가사) (Color Coded Lyrics)",
+      "sub": "Jaeguchi",
+      "type": "yt",
+      "url": "https://www.youtube.com/embed/YfjWM50PHGI?autoplay=1&controls=1&rel=0",
+      "rawUrl": "https://www.youtube.com/watch?v=YfjWM50PHGI"
+    }
+  ],
   "notifications": [
     {
       "id": "n_1790452984684",
