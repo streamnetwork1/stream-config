@@ -1,5 +1,51 @@
 {
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch_1790567772483",
+      "badge": "YT",
+      "name": "ITZY \"LOCO\" Dance Practice (5K)",
+      "sub": "ITZY",
+      "type": "yt",
+      "url": "https://www.youtube.com/embed/jr9lqsHUS-o?autoplay=1&controls=1&rel=0",
+      "rawUrl": "https://www.youtube.com/watch?v=jr9lqsHUS-o"
+    },
+    {
+      "id": "ch_1790567780970",
+      "badge": "YT",
+      "name": "로꼬 (Loco), 화사 (마마무) - 주지마 (Above Live) (ENG/CHN)",
+      "sub": "AOMGOFFICIAL",
+      "type": "yt",
+      "url": "https://www.youtube.com/embed/IB6kViGA3rY?autoplay=1&controls=1&rel=0",
+      "rawUrl": "https://www.youtube.com/watch?v=IB6kViGA3rY"
+    },
+    {
+      "id": "ch_1790567785746",
+      "badge": "YT",
+      "name": "Perfect Chemistry as always 💪🏻🫧🎶#HWASA #화사 #ILoveMyBody #로꼬 #Loco #PNATION #피네이션",
+      "sub": "HWASA",
+      "type": "yt",
+      "url": "https://www.youtube.com/embed/w1rhOrqExdI?autoplay=1&controls=1&rel=0",
+      "rawUrl": "https://www.youtube.com/watch?v=w1rhOrqExdI"
+    },
+    {
+      "id": "ch_1790567790818",
+      "badge": "YT",
+      "name": "NEXZ(넥스지) \"LOCO\" Performance Video",
+      "sub": "JYP Entertainment",
+      "type": "yt",
+      "url": "https://www.youtube.com/embed/DLkBAEAQ1rY?autoplay=1&controls=1&rel=0",
+      "rawUrl": "https://www.youtube.com/watch?v=DLkBAEAQ1rY"
+    },
+    {
+      "id": "ch_1790567795322",
+      "badge": "YT",
+      "name": "로꼬 (Loco) - ‘NOT OK (Feat. 민니 ((여자)아이들))’ Official Live [ENG/CHN]",
+      "sub": "AOMGOFFICIAL",
+      "type": "yt",
+      "url": "https://www.youtube.com/embed/vTX54zOmoiY?autoplay=1&controls=1&rel=0",
+      "rawUrl": "https://www.youtube.com/watch?v=vTX54zOmoiY"
+    }
+  ],
   "notifications": [
     {
       "id": "n_1790452984684",
@@ -51,7 +97,7 @@
     "enabled": true
   },
   "_meta": {
-    "activeProvider": "supabase",
-    "pointerAt": 1790567716147
+    "activeProvider": "github",
+    "pointerAt": 1790567872809
   }
 }
