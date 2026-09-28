@@ -49,5 +49,9 @@
   },
   "playerSandbox": {
     "enabled": true
+  },
+  "_meta": {
+    "activeProvider": "supabase",
+    "pointerAt": 1790563400385
   }
 }
