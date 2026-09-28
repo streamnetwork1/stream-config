@@ -1,5 +1,15 @@
 {
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch_1790564789606",
+      "sub": "Season 26 · Episode 1",
+      "url": "https://cinesrc.st/embed/tv/1549?s=26&e=1",
+      "name": "WWE Friday Night SmackDown",
+      "type": "live",
+      "badge": "TV",
+      "rawUrl": "https://cinesrc.st/embed/tv/1549?s=26&e=1"
+    }
+  ],
   "notifications": [
     {
       "id": "n_1790452984684",
@@ -51,7 +61,7 @@
     "enabled": true
   },
   "_meta": {
-    "activeProvider": "supabase",
-    "pointerAt": 1790565199811
+    "activeProvider": "github",
+    "pointerAt": 1790565226804
   }
 }
