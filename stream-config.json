@@ -1,5 +1,15 @@
 {
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch_1790569923931",
+      "sub": "",
+      "url": "https://streamnetwork1.github.io/streamnetworkchanel/",
+      "name": "STREAM NETWORK",
+      "type": "live",
+      "badge": "STN",
+      "rawUrl": "https://streamnetwork1.github.io/streamnetworkchanel/"
+    }
+  ],
   "notifications": [
     {
       "id": "n_1790452984684",
@@ -9,7 +19,7 @@
     }
   ],
   "system": {
-    "enabled": true,
+    "enabled": false,
     "name": "SYSTEM",
     "badge": "SYS",
     "msg": "We'll Be Right Back",
@@ -50,8 +60,25 @@
   "playerSandbox": {
     "enabled": true
   },
+  "theme": {
+    "bg": "#000000",
+    "text": "#ffffff",
+    "accent": "#ffffff",
+    "island": "#0c0c0c",
+    "header": "#000000"
+  },
+  "layout": {
+    "order": [
+      "player",
+      "channels",
+      "comments"
+    ]
+  },
+  "comments": {
+    "enabled": true
+  },
   "_meta": {
-    "activeProvider": "supabase",
-    "pointerAt": 1790568045194
+    "activeProvider": "github",
+    "pointerAt": 1790700557127
   }
 }
