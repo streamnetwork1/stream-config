@@ -70,8 +70,8 @@
   "layout": {
     "order": [
       "player",
-      "channels",
-      "comments"
+      "comments",
+      "channels"
     ]
   },
   "comments": {
