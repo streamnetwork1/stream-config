@@ -1,15 +1,5 @@
 {
-  "channels": [
-    {
-      "id": "ch_1790569923931",
-      "sub": "",
-      "url": "https://streamnetwork1.github.io/streamnetworkchanel/",
-      "name": "STREAM NETWORK",
-      "type": "live",
-      "badge": "STN",
-      "rawUrl": "https://streamnetwork1.github.io/streamnetworkchanel/"
-    }
-  ],
+  "channels": [],
   "notifications": [
     {
       "id": "n_1790452984684",
@@ -78,7 +68,7 @@
     "enabled": false
   },
   "_meta": {
-    "activeProvider": "supabase",
-    "pointerAt": 1790701490568
+    "activeProvider": "github",
+    "pointerAt": 1790701887550
   }
 }
