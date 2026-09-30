@@ -9,16 +9,6 @@
       "type": "live",
       "badge": "STN",
       "rawUrl": "https://streamnetwork1.github.io/streamnetworkchanel/"
-    },
-    {
-      "id": "ch_1790751791060",
-      "badge": "YT",
-      "name": "Godzilla (feat. Juice WRLD) [Official Audio]",
-      "sub": "EminemMusic",
-      "type": "yt",
-      "url": "https://www.youtube.com/embed/9XvXF1LrWgA?autoplay=1&controls=1&rel=0",
-      "rawUrl": "https://www.youtube.com/watch?v=9XvXF1LrWgA",
-      "img": "https://i.ytimg.com/vi/9XvXF1LrWgA/mqdefault.jpg"
     }
   ],
   "notifications": [
