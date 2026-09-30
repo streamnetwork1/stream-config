@@ -9,9 +9,205 @@
       "type": "live",
       "badge": "STN",
       "rawUrl": "https://streamnetwork1.github.io/streamnetworkchanel/"
+    },
+    {
+      "id": "ch_1790751766956",
+      "badge": "HD",
+      "name": "WWE SummerSlam 2026: Sunday",
+      "sub": "2026",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/movie/1741545",
+      "rawUrl": "https://cinesrc.st/embed/movie/1741545",
+      "img": "https://image.tmdb.org/t/p/w200/vBBZSRVB6X1dcVJq74E5WPege3N.jpg"
+    },
+    {
+      "id": "ch_1790751791060",
+      "badge": "YT",
+      "name": "Godzilla (feat. Juice WRLD) [Official Audio]",
+      "sub": "EminemMusic",
+      "type": "yt",
+      "url": "https://www.youtube.com/embed/9XvXF1LrWgA?autoplay=1&controls=1&rel=0",
+      "rawUrl": "https://www.youtube.com/watch?v=9XvXF1LrWgA",
+      "img": "https://i.ytimg.com/vi/9XvXF1LrWgA/mqdefault.jpg"
+    },
+    {
+      "id": "ch_1790751806348",
+      "badge": "YT",
+      "name": "Akon - Right Now Na Na Na (Lyrics)",
+      "sub": "Rap World",
+      "type": "yt",
+      "url": "https://www.youtube.com/embed/4EH1ukwycUw?autoplay=1&controls=1&rel=0",
+      "rawUrl": "https://www.youtube.com/watch?v=4EH1ukwycUw",
+      "img": "https://i.ytimg.com/vi/4EH1ukwycUw/mqdefault.jpg"
+    },
+    {
+      "id": "ch_1790751862091",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 1",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=1",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=1",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751868355",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 2",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=2",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=2",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751872227",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 3",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=3",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=3",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751874651",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 4",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=4",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=4",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751876811",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 5",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=5",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=5",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751879230",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 6",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=6",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=6",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751881642",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 7",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=7",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=7",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751883803",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 8",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=8",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=8",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751885765",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 9",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=9",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=9",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751887851",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 10",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=10",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=10",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751889915",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 11",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=11",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=11",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751892571",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 12",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=12",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=12",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751894835",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 13",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=13",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=13",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751900611",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 14",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=14",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=14",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751903603",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 15",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=15",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=15",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
+    },
+    {
+      "id": "ch_1790751906284",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 16",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=16",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=16",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
     }
   ],
   "notifications": [
+    {
+      "id": "n_1790752175945",
+      "title": "hi",
+      "body": "",
+      "ts": 1790752175945
+    },
     {
       "id": "n_1790452984684",
       "ts": 1790452984684,
@@ -20,7 +216,7 @@
     }
   ],
   "system": {
-    "enabled": false,
+    "enabled": true,
     "name": "SYSTEM",
     "badge": "SYS",
     "msg": "We'll Be Right Back",
@@ -69,19 +265,19 @@
     "placements": {
       "infeed": false,
       "sidebar": false,
-      "leftSide": true,
-      "rightSide": true,
+      "leftSide": false,
+      "rightSide": false,
       "belowPlayer": false,
       "mobileFooter": false
     }
   },
   "theme": {
-    "bg": "#000000",
-    "text": "#ffffff",
-    "accent": "#ffffff",
-    "island": "#0c0c0c",
-    "header": "#000000",
-    "bgImage": "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=1920&q=85"
+    "bg": "#25d818",
+    "text": "#d6d912",
+    "accent": "#c9b6b6",
+    "island": "#1e0606",
+    "header": "#9a7251",
+    "bgImage": ""
   },
   "layout": {
     "order": [
@@ -91,10 +287,10 @@
     ]
   },
   "comments": {
-    "enabled": false
+    "enabled": true
   },
   "_meta": {
-    "activeProvider": "supabase",
-    "pointerAt": 1790751444110
+    "activeProvider": "github",
+    "pointerAt": 1790752371016
   }
 }
