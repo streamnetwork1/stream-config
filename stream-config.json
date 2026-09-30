@@ -11,16 +11,6 @@
       "rawUrl": "https://streamnetwork1.github.io/streamnetworkchanel/"
     },
     {
-      "id": "ch_1790751766956",
-      "badge": "HD",
-      "name": "WWE SummerSlam 2026: Sunday",
-      "sub": "2026",
-      "type": "live",
-      "url": "https://cinesrc.st/embed/movie/1741545",
-      "rawUrl": "https://cinesrc.st/embed/movie/1741545",
-      "img": "https://image.tmdb.org/t/p/w200/vBBZSRVB6X1dcVJq74E5WPege3N.jpg"
-    },
-    {
       "id": "ch_1790751791060",
       "badge": "YT",
       "name": "Godzilla (feat. Juice WRLD) [Official Audio]",
@@ -29,56 +19,6 @@
       "url": "https://www.youtube.com/embed/9XvXF1LrWgA?autoplay=1&controls=1&rel=0",
       "rawUrl": "https://www.youtube.com/watch?v=9XvXF1LrWgA",
       "img": "https://i.ytimg.com/vi/9XvXF1LrWgA/mqdefault.jpg"
-    },
-    {
-      "id": "ch_1790751806348",
-      "badge": "YT",
-      "name": "Akon - Right Now Na Na Na (Lyrics)",
-      "sub": "Rap World",
-      "type": "yt",
-      "url": "https://www.youtube.com/embed/4EH1ukwycUw?autoplay=1&controls=1&rel=0",
-      "rawUrl": "https://www.youtube.com/watch?v=4EH1ukwycUw",
-      "img": "https://i.ytimg.com/vi/4EH1ukwycUw/mqdefault.jpg"
-    },
-    {
-      "id": "ch_1790751862091",
-      "badge": "TV",
-      "name": "Our Sticky Love",
-      "sub": "Season 1 · Episode 1",
-      "type": "live",
-      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=1",
-      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=1",
-      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
-    },
-    {
-      "id": "ch_1790751868355",
-      "badge": "TV",
-      "name": "Our Sticky Love",
-      "sub": "Season 1 · Episode 2",
-      "type": "live",
-      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=2",
-      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=2",
-      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
-    },
-    {
-      "id": "ch_1790751872227",
-      "badge": "TV",
-      "name": "Our Sticky Love",
-      "sub": "Season 1 · Episode 3",
-      "type": "live",
-      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=3",
-      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=3",
-      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
-    },
-    {
-      "id": "ch_1790751874651",
-      "badge": "TV",
-      "name": "Our Sticky Love",
-      "sub": "Season 1 · Episode 4",
-      "type": "live",
-      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=4",
-      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=4",
-      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
     }
   ],
   "notifications": [
@@ -90,7 +30,7 @@
     }
   ],
   "system": {
-    "enabled": true,
+    "enabled": false,
     "name": "SYSTEM",
     "badge": "SYS",
     "msg": "We'll Be Right Back",
