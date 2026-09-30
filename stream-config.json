@@ -65,11 +65,11 @@
     }
   },
   "theme": {
-    "bg": "#25d818",
-    "text": "#d6d912",
-    "accent": "#c9b6b6",
-    "island": "#1e0606",
-    "header": "#9a7251",
+    "bg": "#000000",
+    "text": "#ffffff",
+    "accent": "#ffffff",
+    "island": "#0c0c0c",
+    "header": "#000000",
     "bgImage": ""
   },
   "layout": {
