@@ -2,13 +2,13 @@
   "channels": [
     {
       "id": "ch_1790702002693",
-      "badge": "STN",
-      "name": "STREAM NETWORK",
+      "img": "",
       "sub": "",
-      "type": "live",
       "url": "https://streamnetwork1.github.io/streamnetworkchanel/",
-      "rawUrl": "https://streamnetwork1.github.io/streamnetworkchanel/",
-      "img": ""
+      "name": "STREAM NETWORK",
+      "type": "live",
+      "badge": "STN",
+      "rawUrl": "https://streamnetwork1.github.io/streamnetworkchanel/"
     }
   ],
   "notifications": [
@@ -61,12 +61,27 @@
   "playerSandbox": {
     "enabled": true
   },
+  "siteSandbox": {
+    "enabled": false
+  },
+  "earn": {
+    "enabled": false,
+    "placements": {
+      "infeed": false,
+      "sidebar": false,
+      "leftSide": true,
+      "rightSide": true,
+      "belowPlayer": false,
+      "mobileFooter": false
+    }
+  },
   "theme": {
     "bg": "#000000",
     "text": "#ffffff",
     "accent": "#ffffff",
     "island": "#0c0c0c",
-    "header": "#000000"
+    "header": "#000000",
+    "bgImage": ""
   },
   "layout": {
     "order": [
@@ -79,7 +94,7 @@
     "enabled": false
   },
   "_meta": {
-    "activeProvider": "supabase",
-    "pointerAt": 1790703156613
+    "activeProvider": "github",
+    "pointerAt": 1790750503124
   }
 }
