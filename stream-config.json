@@ -39,6 +39,16 @@
       "url": "https://www.youtube.com/embed/4EH1ukwycUw?autoplay=1&controls=1&rel=0",
       "rawUrl": "https://www.youtube.com/watch?v=4EH1ukwycUw",
       "img": "https://i.ytimg.com/vi/4EH1ukwycUw/mqdefault.jpg"
+    },
+    {
+      "id": "ch_1790751862091",
+      "badge": "TV",
+      "name": "Our Sticky Love",
+      "sub": "Season 1 · Episode 1",
+      "type": "live",
+      "url": "https://cinesrc.st/embed/tv/291496?s=1&e=1",
+      "rawUrl": "https://cinesrc.st/embed/tv/291496?s=1&e=1",
+      "img": "https://image.tmdb.org/t/p/w200/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
     }
   ],
   "notifications": [
