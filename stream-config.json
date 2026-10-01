@@ -57,11 +57,11 @@
     "enabled": true,
     "placements": {
       "infeed": true,
-      "sidebar": false,
-      "leftSide": false,
+      "sidebar": true,
+      "leftSide": true,
       "rightSide": false,
       "belowPlayer": true,
-      "mobileFooter": false
+      "mobileFooter": true
     }
   },
   "theme": {
