@@ -9,7 +9,7 @@
     }
   ],
   "system": {
-    "enabled": true,
+    "enabled": false,
     "name": "SYSTEM",
     "badge": "SYS",
     "msg": "We'll Be Right Back",
@@ -18,15 +18,15 @@
     "position": "top"
   },
   "about": {
-    "name": "STREAM Owner",
+    "name": "STREAM NETWORK",
     "role": "Broadcaster · Content Creator",
     "tag": "OFFICIAL",
-    "initials": "ST",
+    "initials": "SN",
     "about": "Welcome to STREAM — your home for live broadcasts, music, cinema and more.",
-    "email": "owner@example.com",
-    "telegram": "@yourusername",
-    "whatsapp": "1234567890",
-    "youtube": "@yourchannel"
+    "email": "streamcenter207@gmail.com",
+    "telegram": "",
+    "whatsapp": "",
+    "youtube": ""
   },
   "adsense": {
     "enabled": false,
@@ -65,25 +65,25 @@
     }
   },
   "theme": {
-    "bg": "#000000",
+    "bg": "#091a0d",
     "text": "#ffffff",
     "accent": "#ffffff",
-    "island": "#0c0c0c",
+    "island": "#000000",
     "header": "#000000",
     "bgImage": ""
   },
   "layout": {
     "order": [
-      "comments",
+      "player",
       "channels",
-      "player"
+      "comments"
     ]
   },
   "comments": {
-    "enabled": true
+    "enabled": false
   },
   "_meta": {
-    "activeProvider": "supabase",
-    "pointerAt": 1790769098358
+    "activeProvider": "github",
+    "pointerAt": 1790857867349
   }
 }
