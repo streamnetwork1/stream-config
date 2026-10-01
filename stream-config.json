@@ -54,7 +54,7 @@
     "enabled": false
   },
   "earn": {
-    "enabled": true,
+    "enabled": false,
     "placements": {
       "infeed": true,
       "sidebar": true,
