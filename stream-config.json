@@ -56,11 +56,11 @@
   "earn": {
     "enabled": true,
     "placements": {
-      "infeed": false,
+      "infeed": true,
       "sidebar": false,
       "leftSide": false,
       "rightSide": false,
-      "belowPlayer": false,
+      "belowPlayer": true,
       "mobileFooter": false
     }
   },
