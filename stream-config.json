@@ -129,10 +129,10 @@
     "label": "Auto"
   },
   "playerSandbox": {
-    "enabled": true
+    "enabled": false
   },
   "siteSandbox": {
-    "enabled": false
+    "enabled": true
   },
   "earn": {
     "enabled": false,
