@@ -1,5 +1,56 @@
 {
-  "channels": [],
+  "channels": [
+    {
+      "id": "ch_1790961504281",
+      "img": "https://i.ytimg.com/vi/36YnV9STBqc/mqdefault_live.jpg",
+      "sub": "The Good Life Radio x Sensual Musique",
+      "url": "https://www.youtube.com/embed/36YnV9STBqc?autoplay=1&controls=1&rel=0",
+      "name": "The Good Life Radio • 24/7 Live Radio | Best Relax House, Chillout, Study, Running, Gym, Happy Music",
+      "type": "yt",
+      "badge": "YT",
+      "rawUrl": "https://www.youtube.com/watch?v=36YnV9STBqc"
+    },
+    {
+      "id": "ch_1790961507048",
+      "img": "https://i.ytimg.com/vi/IkmLXvBfVv0/mqdefault.jpg",
+      "sub": "The Good Life Radio x Sensual Musique",
+      "url": "https://www.youtube.com/embed/IkmLXvBfVv0?autoplay=1&controls=1&rel=0",
+      "name": "Deep House Radio • 24/7 Live Radio | Relaxing, Chill Deep House, Summer Mix 2025, Gym, Workout Music",
+      "type": "yt",
+      "badge": "YT",
+      "rawUrl": "https://www.youtube.com/watch?v=IkmLXvBfVv0"
+    },
+    {
+      "id": "ch_1791039371602",
+      "img": "",
+      "sub": "",
+      "url": "https://drive.google.com/file/d/103w_4NcERMPSa4gkPiXrOI4Y4Qxn7YWA/view?usp=sharing",
+      "name": "hh",
+      "type": "live",
+      "badge": "HH",
+      "rawUrl": "https://drive.google.com/file/d/103w_4NcERMPSa4gkPiXrOI4Y4Qxn7YWA/view?usp=sharing"
+    },
+    {
+      "id": "ch_1791096758281",
+      "img": "https://i.ytimg.com/vi/R4WCY6ZzM70/mqdefault.jpg",
+      "sub": "RAINPOT TV",
+      "url": "https://www.youtube.com/embed/R4WCY6ZzM70?autoplay=1&controls=1&rel=0",
+      "name": "#sirenhead ee",
+      "type": "yt",
+      "badge": "YT",
+      "rawUrl": "https://www.youtube.com/watch?v=R4WCY6ZzM70"
+    },
+    {
+      "id": "ch_1791096840233",
+      "img": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "sub": "2026",
+      "url": "https://cinesrc.st/embed/movie/969681",
+      "name": "Spider-Man: Brand New Day",
+      "type": "live",
+      "badge": "HD",
+      "rawUrl": "https://cinesrc.st/embed/movie/969681"
+    }
+  ],
   "notifications": [
     {
       "id": "n_1790452984684",
@@ -9,7 +60,7 @@
     }
   ],
   "system": {
-    "enabled": false,
+    "enabled": true,
     "name": "SYSTEM",
     "badge": "SYS",
     "msg": "We'll Be Right Back",
@@ -51,7 +102,7 @@
     "enabled": false
   },
   "siteSandbox": {
-    "enabled": true
+    "enabled": false
   },
   "earn": {
     "enabled": false,
@@ -65,11 +116,11 @@
     }
   },
   "theme": {
-    "bg": "#000000",
-    "text": "#ffffff",
+    "bg": "#8e1a1a",
+    "text": "#11ff00",
     "accent": "#ffffff",
-    "island": "#000000",
-    "header": "#000000",
+    "island": "#a83838",
+    "header": "#00ff1e",
     "bgImage": ""
   },
   "layout": {
@@ -80,10 +131,10 @@
     ]
   },
   "comments": {
-    "enabled": false
+    "enabled": true
   },
   "_meta": {
-    "activeProvider": "supabase",
-    "pointerAt": 1790960689998
+    "activeProvider": "github",
+    "pointerAt": 1791097100857
   }
 }
