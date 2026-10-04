@@ -87,7 +87,7 @@
   },
   "theme": {
     "bg": "#000000",
-    "text": "#ffffff",
+    "text": "#ff0000",
     "accent": "#ffffff",
     "island": "#0c0c0c",
     "header": "#000000",
