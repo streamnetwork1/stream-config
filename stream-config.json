@@ -39,16 +39,6 @@
       "type": "yt",
       "badge": "YT",
       "rawUrl": "https://www.youtube.com/watch?v=R4WCY6ZzM70"
-    },
-    {
-      "id": "ch_1791096840233",
-      "img": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "sub": "2026",
-      "url": "https://cinesrc.st/embed/movie/969681",
-      "name": "Spider-Man: Brand New Day",
-      "type": "live",
-      "badge": "HD",
-      "rawUrl": "https://cinesrc.st/embed/movie/969681"
     }
   ],
   "notifications": [
