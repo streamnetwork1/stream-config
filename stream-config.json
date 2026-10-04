@@ -77,12 +77,12 @@
   "earn": {
     "enabled": true,
     "placements": {
-      "infeed": true,
+      "infeed": false,
       "sidebar": true,
-      "leftSide": true,
-      "rightSide": true,
+      "leftSide": false,
+      "rightSide": false,
       "belowPlayer": false,
-      "mobileFooter": true
+      "mobileFooter": false
     }
   },
   "theme": {
