@@ -89,7 +89,7 @@
     "bg": "#000000",
     "text": "#ff0000",
     "accent": "#ffffff",
-    "island": "#f0f0f0",
+    "island": "#000000",
     "header": "#000000",
     "bgImage": ""
   },
