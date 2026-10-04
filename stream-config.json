@@ -11,14 +11,74 @@
       "rawUrl": "https://www.youtube.com/watch?v=36YnV9STBqc"
     },
     {
-      "id": "ch_1790961507048",
-      "img": "https://i.ytimg.com/vi/IkmLXvBfVv0/mqdefault.jpg",
-      "sub": "The Good Life Radio x Sensual Musique",
-      "url": "https://www.youtube.com/embed/IkmLXvBfVv0?autoplay=1&controls=1&rel=0",
-      "name": "Deep House Radio • 24/7 Live Radio | Relaxing, Chill Deep House, Summer Mix 2025, Gym, Workout Music",
-      "type": "yt",
-      "badge": "YT",
-      "rawUrl": "https://www.youtube.com/watch?v=IkmLXvBfVv0"
+      "id": "ch_1791136683973_0_896",
+      "img": "https://i.imgur.com/MyiA92q.png",
+      "sub": "Music",
+      "url": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8",
+      "name": "Clubbing TV UK (720p)",
+      "type": "live",
+      "badge": "CTU7",
+      "rawUrl": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8"
+    },
+    {
+      "id": "ch_1791137489240_0_233",
+      "img": "https://i.imgur.com/D8Vuw6I.png",
+      "sub": "Relax",
+      "url": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8",
+      "name": "Better Life Nature Channel (480p)",
+      "type": "live",
+      "badge": "BLNC",
+      "rawUrl": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8"
+    },
+    {
+      "id": "ch_1791137493567_0_675",
+      "img": "https://i.imgur.com/AHIo9oz.png",
+      "sub": "Relax",
+      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2240",
+      "name": "Screen Dreams (720p)",
+      "type": "live",
+      "badge": "SD7",
+      "rawUrl": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2240"
+    },
+    {
+      "id": "ch_1791137521726_0_984",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png",
+      "sub": "Music",
+      "url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
+      "name": "Stingray DJAZZ (1080p)",
+      "type": "live",
+      "badge": "SD1",
+      "rawUrl": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+      "id": "ch_1791138019499_0_575",
+      "badge": "SOHA",
+      "name": "Sony One Hits Action (1080p)",
+      "sub": "Movies",
+      "type": "live",
+      "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+      "rawUrl": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+      "img": "https://i.imgur.com/pXsZEsR.png"
+    },
+    {
+      "id": "ch_1791138020532_0_397",
+      "badge": "SOHC",
+      "name": "Sony One Hits Comedie (1080p)",
+      "sub": "Movies",
+      "type": "live",
+      "url": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
+      "rawUrl": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
+      "img": "https://i.imgur.com/8sHuxxS.png"
+    },
+    {
+      "id": "ch_1791138027868_0_387",
+      "badge": "SOF1",
+      "name": "Sony One Favoris (1080p)",
+      "sub": "Movies",
+      "type": "live",
+      "url": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
+      "rawUrl": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
+      "img": "https://i.imgur.com/RO4AM4b.png"
     }
   ],
   "notifications": [
@@ -69,7 +129,7 @@
     "label": "Auto"
   },
   "playerSandbox": {
-    "enabled": false
+    "enabled": true
   },
   "siteSandbox": {
     "enabled": false
@@ -87,9 +147,9 @@
   },
   "theme": {
     "bg": "#000000",
-    "text": "#ff0000",
+    "text": "#ffffff",
     "accent": "#ffffff",
-    "island": "#000000",
+    "island": "#0c0c0c",
     "header": "#000000",
     "bgImage": ""
   },
@@ -104,7 +164,7 @@
     "enabled": true
   },
   "_meta": {
-    "activeProvider": "supabase",
-    "pointerAt": 1791102293351
+    "activeProvider": "github",
+    "pointerAt": 1791139127484
   }
 }
