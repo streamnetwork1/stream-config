@@ -81,7 +81,7 @@
       "sidebar": true,
       "leftSide": true,
       "rightSide": true,
-      "belowPlayer": true,
+      "belowPlayer": false,
       "mobileFooter": true
     }
   },
