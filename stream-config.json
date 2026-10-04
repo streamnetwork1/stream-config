@@ -90,7 +90,7 @@
     "text": "#ff0000",
     "accent": "#ffffff",
     "island": "#000000",
-    "header": "#ffffff",
+    "header": "#000000",
     "bgImage": ""
   },
   "layout": {
