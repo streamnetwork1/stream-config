@@ -75,10 +75,10 @@
     "enabled": false
   },
   "earn": {
-    "enabled": true,
+    "enabled": false,
     "placements": {
       "infeed": false,
-      "sidebar": true,
+      "sidebar": false,
       "leftSide": false,
       "rightSide": false,
       "belowPlayer": false,
