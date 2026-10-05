@@ -39,36 +39,6 @@
       "type": "live",
       "badge": "SD7",
       "rawUrl": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2240"
-    },
-    {
-      "id": "ch_1791137521726_0_984",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png",
-      "sub": "Music",
-      "url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
-      "name": "Stingray DJAZZ (1080p)",
-      "type": "live",
-      "badge": "SD1",
-      "rawUrl": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
-    },
-    {
-      "id": "ch_1791138019499_0_575",
-      "img": "https://i.imgur.com/pXsZEsR.png",
-      "sub": "Movies",
-      "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
-      "name": "Sony One Hits Action (1080p)",
-      "type": "live",
-      "badge": "SOHA",
-      "rawUrl": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8"
-    },
-    {
-      "id": "ch_1791138020532_0_397",
-      "img": "https://i.imgur.com/8sHuxxS.png",
-      "sub": "Movies",
-      "url": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
-      "name": "Sony One Hits Comedie (1080p)",
-      "type": "live",
-      "badge": "SOHC",
-      "rawUrl": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8"
     }
   ],
   "notifications": [
