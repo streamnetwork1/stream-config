@@ -90,7 +90,7 @@
     }
   ],
   "system": {
-    "enabled": true,
+    "enabled": false,
     "name": "SYSTEM",
     "badge": "SYS",
     "msg": "We'll Be Right Back",
@@ -164,7 +164,7 @@
     "enabled": true
   },
   "_meta": {
-    "activeProvider": "supabase",
-    "pointerAt": 1791219331297
+    "activeProvider": "github",
+    "pointerAt": 1791219618031
   }
 }
