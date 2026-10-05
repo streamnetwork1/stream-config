@@ -9,46 +9,6 @@
       "type": "yt",
       "badge": "YT",
       "rawUrl": "https://www.youtube.com/watch?v=36YnV9STBqc"
-    },
-    {
-      "id": "ch_1791136683973_0_896",
-      "img": "https://i.imgur.com/MyiA92q.png",
-      "sub": "Music",
-      "url": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8",
-      "name": "Clubbing TV UK (720p)",
-      "type": "live",
-      "badge": "CTU7",
-      "rawUrl": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8"
-    },
-    {
-      "id": "ch_1791137489240_0_233",
-      "img": "https://i.imgur.com/D8Vuw6I.png",
-      "sub": "Relax",
-      "url": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8",
-      "name": "Better Life Nature Channel (480p)",
-      "type": "live",
-      "badge": "BLNC",
-      "rawUrl": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8"
-    },
-    {
-      "id": "ch_1791137493567_0_675",
-      "img": "https://i.imgur.com/AHIo9oz.png",
-      "sub": "Relax",
-      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2240",
-      "name": "Screen Dreams (720p)",
-      "type": "live",
-      "badge": "SD7",
-      "rawUrl": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2240"
-    },
-    {
-      "id": "ch_1791137521726_0_984",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png",
-      "sub": "Music",
-      "url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
-      "name": "Stingray DJAZZ (1080p)",
-      "type": "live",
-      "badge": "SD1",
-      "rawUrl": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
     }
   ],
   "notifications": [
