@@ -1,26 +1,5 @@
 {
-  "channels": [
-    {
-      "id": "ch_1790961504281",
-      "img": "https://i.ytimg.com/vi/36YnV9STBqc/mqdefault_live.jpg",
-      "sub": "The Good Life Radio x Sensual Musique",
-      "url": "https://www.youtube.com/embed/36YnV9STBqc?autoplay=1&controls=1&rel=0",
-      "name": "The Good Life Radio • 24/7 Live Radio | Best Relax House, Chillout, Study, Running, Gym, Happy Music",
-      "type": "yt",
-      "badge": "YT",
-      "rawUrl": "https://www.youtube.com/watch?v=36YnV9STBqc"
-    },
-    {
-      "id": "ch_1791136683973_0_896",
-      "img": "https://i.imgur.com/MyiA92q.png",
-      "sub": "Music",
-      "url": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8",
-      "name": "Clubbing TV UK (720p)",
-      "type": "live",
-      "badge": "CTU7",
-      "rawUrl": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8"
-    }
-  ],
+  "channels": [],
   "notifications": [
     {
       "id": "n_1790452984684",
@@ -30,7 +9,7 @@
     }
   ],
   "system": {
-    "enabled": false,
+    "enabled": true,
     "name": "SYSTEM",
     "badge": "SYS",
     "msg": "We'll Be Right Back",
