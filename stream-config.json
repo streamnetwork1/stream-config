@@ -79,6 +79,16 @@
       "type": "live",
       "badge": "SOF1",
       "rawUrl": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8"
+    },
+    {
+      "id": "ch_1791219661996",
+      "badge": "HD",
+      "name": "Hi :)",
+      "sub": "2026",
+      "type": "live",
+      "url": "https://vidcore.org/embed/movie/1314279",
+      "rawUrl": "https://vidcore.org/embed/movie/1314279",
+      "img": "https://image.tmdb.org/t/p/w200/9Vgmpa0tcCzkbXf9AY0zXrai1oi.jpg"
     }
   ],
   "notifications": [
