@@ -79,16 +79,6 @@
       "url": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
       "rawUrl": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
       "img": "https://i.imgur.com/RO4AM4b.png"
-    },
-    {
-      "id": "ch_1791140112405",
-      "badge": "HD",
-      "name": "Spider-Man: Brand New Day",
-      "sub": "2026",
-      "type": "live",
-      "url": "https://cinesrc.st/embed/movie/969681",
-      "rawUrl": "https://cinesrc.st/embed/movie/969681",
-      "img": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
     }
   ],
   "notifications": [
@@ -174,7 +164,7 @@
     "enabled": true
   },
   "_meta": {
-    "activeProvider": "supabase",
-    "pointerAt": 1791141082040
+    "activeProvider": "github",
+    "pointerAt": 1791190673325
   }
 }
