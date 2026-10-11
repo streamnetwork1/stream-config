@@ -71,16 +71,6 @@
       "rawUrl": "https://bss1.neterra.tv/thevoice/thevoice.m3u8"
     },
     {
-      "id": "ch_1791730596379_0_911",
-      "badge": "UN7",
-      "name": "USA Network (720p)",
-      "sub": "Comedy;Movies;Series;Sports",
-      "type": "live",
-      "url": "http://190.197.41.183/USA_NETWORK/index.m3u8",
-      "rawUrl": "http://190.197.41.183/USA_NETWORK/index.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"
-    },
-    {
       "id": "ch_1791730616026_17_58",
       "badge": "EUS7",
       "name": "ESPN (United States) (720p)",
@@ -89,6 +79,16 @@
       "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
       "rawUrl": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
+    },
+    {
+      "id": "ch_1791730596379_0_911",
+      "badge": "UN7",
+      "name": "USA Network (720p)",
+      "sub": "Comedy;Movies;Series;Sports",
+      "type": "live",
+      "url": "http://190.197.41.183/USA_NETWORK/index.m3u8",
+      "rawUrl": "http://190.197.41.183/USA_NETWORK/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"
     },
     {
       "id": "ch_1791730598146_0_315",
