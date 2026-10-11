@@ -209,66 +209,6 @@
       "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
       "rawUrl": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_11_386",
-      "badge": "E5LA",
-      "name": "ESPN 5 Latin America (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
-      "rawUrl": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_12_543",
-      "badge": "E6LA",
-      "name": "ESPN 6 Latin America (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
-      "rawUrl": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_13_46",
-      "badge": "E7LA",
-      "name": "ESPN 7 Latin America (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
-      "rawUrl": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_14_521",
-      "badge": "ETO1",
-      "name": "ESPN8: The Ocho (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8",
-      "rawUrl": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8",
-      "img": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png"
-    },
-    {
-      "id": "ch_1791730616026_15_81",
-      "badge": "EB1",
-      "name": "ESPN (Brazil) (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
-      "rawUrl": "http://181.78.197.59:8000/play/a07z/index.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_16_297",
-      "badge": "EN3",
-      "name": "ESPN (Netherlands) (360p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8",
-      "rawUrl": "https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
     }
   ],
   "notifications": [
