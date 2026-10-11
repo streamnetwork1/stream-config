@@ -221,6 +221,16 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
     },
     {
+      "id": "ch_1791730616026_17_58",
+      "badge": "EUS7",
+      "name": "ESPN (United States) (720p)",
+      "sub": "Sports",
+      "type": "live",
+      "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
+      "rawUrl": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
+    },
+    {
       "id": "ch_1791730616026_13_46",
       "badge": "E7LA",
       "name": "ESPN 7 Latin America (1080p)",
@@ -239,16 +249,6 @@
       "url": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8",
       "rawUrl": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8",
       "img": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png"
-    },
-    {
-      "id": "ch_1791730616026_17_58",
-      "badge": "EUS7",
-      "name": "ESPN (United States) (720p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
-      "rawUrl": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
     },
     {
       "id": "ch_1791730616026_15_81",
