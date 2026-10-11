@@ -91,16 +91,6 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"
     },
     {
-      "id": "ch_1791730616025_0_693",
-      "badge": "E2N3",
-      "name": "ESPN 2 (Netherlands) (360p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://lb.iptvnetwork.net/ls28/10042/playlist.m3u8",
-      "rawUrl": "https://lb.iptvnetwork.net/ls28/10042/playlist.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
-    },
-    {
       "id": "ch_1791730616026_17_58",
       "badge": "EUS7",
       "name": "ESPN (United States) (720p)",
@@ -109,6 +99,16 @@
       "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
       "rawUrl": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
+    },
+    {
+      "id": "ch_1791730616025_0_693",
+      "badge": "E2N3",
+      "name": "ESPN 2 (Netherlands) (360p)",
+      "sub": "Sports",
+      "type": "live",
+      "url": "https://lb.iptvnetwork.net/ls28/10042/playlist.m3u8",
+      "rawUrl": "https://lb.iptvnetwork.net/ls28/10042/playlist.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
     },
     {
       "id": "ch_1791730616026_1_634",
