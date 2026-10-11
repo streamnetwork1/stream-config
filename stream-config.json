@@ -159,36 +159,6 @@
       "url": "https://lb.iptvnetwork.net/ls28/10043/playlist.m3u8",
       "rawUrl": "https://lb.iptvnetwork.net/ls28/10043/playlist.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png"
-    },
-    {
-      "id": "ch_1791730616026_6_95",
-      "badge": "E3LA",
-      "name": "ESPN 3 Latin America (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
-      "rawUrl": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png"
-    },
-    {
-      "id": "ch_1791730616026_7_437",
-      "badge": "E3LA",
-      "name": "ESPN 3 Latin America Argentina",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8",
-      "rawUrl": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png"
-    },
-    {
-      "id": "ch_1791730616026_8_356",
-      "badge": "E4B1",
-      "name": "ESPN 4 (Brazil) (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "http://181.78.197.59:8000/play/a07n/index.m3u8",
-      "rawUrl": "http://181.78.197.59:8000/play/a07n/index.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
     }
   ],
   "notifications": [
