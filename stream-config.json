@@ -349,16 +349,6 @@
       "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
       "rawUrl": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
       "img": "https://i.imgur.com/HiBrysh.png"
-    },
-    {
-      "id": "ch_1791731105592_0_556",
-      "badge": "PT",
-      "name": "PLEX TV",
-      "sub": "Entertainment",
-      "type": "live",
-      "url": "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8",
-      "rawUrl": "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8",
-      "img": "https://i.ibb.co/H4VktvG/Plex-TV-237.jpg"
     }
   ],
   "notifications": [
