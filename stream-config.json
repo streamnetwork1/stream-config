@@ -309,6 +309,36 @@
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8",
       "rawUrl": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
+    },
+    {
+      "id": "ch_1791730616026_22_870",
+      "badge": "EPAH",
+      "name": "ESPN Premium (Argentina) HD (1080p)",
+      "sub": "Sports",
+      "type": "live",
+      "url": "http://190.128.214.97:64333/play/a02i/index.m3u8",
+      "rawUrl": "http://190.128.214.97:64333/play/a02i/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png"
+    },
+    {
+      "id": "ch_1791730616026_23_802",
+      "badge": "EPC",
+      "name": "ESPN Premium (Chile)",
+      "sub": "Sports",
+      "type": "live",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8",
+      "rawUrl": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png"
+    },
+    {
+      "id": "ch_1791730616026_24_869",
+      "badge": "E7",
+      "name": "ESPNU (720p)",
+      "sub": "Sports",
+      "type": "live",
+      "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+      "rawUrl": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+      "img": "https://i.imgur.com/HiBrysh.png"
     }
   ],
   "notifications": [
