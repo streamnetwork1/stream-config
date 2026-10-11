@@ -199,16 +199,6 @@
       "url": "https://lb.iptvnetwork.net/ls28/10044/playlist.m3u8",
       "rawUrl": "https://lb.iptvnetwork.net/ls28/10044/playlist.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_10_59",
-      "badge": "E4LA",
-      "name": "ESPN 4 Latin America (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
-      "rawUrl": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
     }
   ],
   "notifications": [
