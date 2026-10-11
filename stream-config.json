@@ -109,26 +109,6 @@
       "url": "https://lb.iptvnetwork.net/ls28/10042/playlist.m3u8",
       "rawUrl": "https://lb.iptvnetwork.net/ls28/10042/playlist.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_1_634",
-      "badge": "E2US",
-      "name": "ESPN 2 (United States) (720p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
-      "rawUrl": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
-      "img": "https://i.imgur.com/00tsvjE.png"
-    },
-    {
-      "id": "ch_1791730616026_2_871",
-      "badge": "E2LA",
-      "name": "ESPN 2 Latin America (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
-      "rawUrl": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
     }
   ],
   "notifications": [
