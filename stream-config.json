@@ -121,16 +121,6 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
     },
     {
-      "id": "ch_1791730616026_3_371",
-      "badge": "E2LA",
-      "name": "ESPN 2 Latin America Argentina",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8",
-      "rawUrl": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
-    },
-    {
       "id": "ch_1791730616026_17_58",
       "badge": "EUS7",
       "name": "ESPN (United States) (720p)",
@@ -139,6 +129,16 @@
       "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
       "rawUrl": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
+    },
+    {
+      "id": "ch_1791730616026_3_371",
+      "badge": "E2LA",
+      "name": "ESPN 2 Latin America Argentina",
+      "sub": "Sports",
+      "type": "live",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8",
+      "rawUrl": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
     },
     {
       "id": "ch_1791730616026_4_351",
