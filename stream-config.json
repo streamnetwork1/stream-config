@@ -251,16 +251,6 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
     },
     {
-      "id": "ch_1791730616026_16_297",
-      "badge": "EN3",
-      "name": "ESPN (Netherlands) (360p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8",
-      "rawUrl": "https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-    },
-    {
       "id": "ch_1791730616026_17_58",
       "badge": "EUS7",
       "name": "ESPN (United States) (720p)",
@@ -268,6 +258,16 @@
       "type": "live",
       "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
       "rawUrl": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
+    },
+    {
+      "id": "ch_1791730616026_16_297",
+      "badge": "EN3",
+      "name": "ESPN (Netherlands) (360p)",
+      "sub": "Sports",
+      "type": "live",
+      "url": "https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8",
+      "rawUrl": "https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
     },
     {
@@ -309,26 +309,6 @@
       "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8",
       "rawUrl": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_22_870",
-      "badge": "EPAH",
-      "name": "ESPN Premium (Argentina) HD (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "http://190.128.214.97:64333/play/a02i/index.m3u8",
-      "rawUrl": "http://190.128.214.97:64333/play/a02i/index.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_23_802",
-      "badge": "EPC",
-      "name": "ESPN Premium (Chile)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8",
-      "rawUrl": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png"
     }
   ],
   "notifications": [
