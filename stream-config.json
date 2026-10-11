@@ -241,16 +241,6 @@
       "img": "https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png"
     },
     {
-      "id": "ch_1791730616026_15_81",
-      "badge": "EB1",
-      "name": "ESPN (Brazil) (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
-      "rawUrl": "http://181.78.197.59:8000/play/a07z/index.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-    },
-    {
       "id": "ch_1791730616026_17_58",
       "badge": "EUS7",
       "name": "ESPN (United States) (720p)",
@@ -258,6 +248,16 @@
       "type": "live",
       "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
       "rawUrl": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
+    },
+    {
+      "id": "ch_1791730616026_15_81",
+      "badge": "EB1",
+      "name": "ESPN (Brazil) (1080p)",
+      "sub": "Sports",
+      "type": "live",
+      "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
+      "rawUrl": "http://181.78.197.59:8000/play/a07z/index.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
     },
     {
