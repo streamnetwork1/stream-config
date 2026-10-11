@@ -279,26 +279,6 @@
       "url": "http://168.228.44.241:9998/play/a0dz/index.m3u8",
       "rawUrl": "http://168.228.44.241:9998/play/a0dz/index.m3u8",
       "img": "https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png"
-    },
-    {
-      "id": "ch_1791730616026_19_576",
-      "badge": "EELA",
-      "name": "ESPN Extra Latin America (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?",
-      "rawUrl": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?",
-      "img": "https://i.imgur.com/8P8N2Ov.png"
-    },
-    {
-      "id": "ch_1791730616026_20_881",
-      "badge": "ELA1",
-      "name": "ESPN Latin America (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
-      "rawUrl": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
     }
   ],
   "notifications": [
