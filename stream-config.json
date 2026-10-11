@@ -259,36 +259,6 @@
       "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
       "rawUrl": "http://181.78.197.59:8000/play/a07z/index.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_16_297",
-      "badge": "EN3",
-      "name": "ESPN (Netherlands) (360p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8",
-      "rawUrl": "https://lb.iptvnetwork.net/ls28/10041/playlist.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_18_791",
-      "badge": "EDH7",
-      "name": "ESPN Deportes HD (720p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "http://168.228.44.241:9998/play/a0dz/index.m3u8",
-      "rawUrl": "http://168.228.44.241:9998/play/a0dz/index.m3u8",
-      "img": "https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png"
-    },
-    {
-      "id": "ch_1791730616026_19_576",
-      "badge": "EELA",
-      "name": "ESPN Extra Latin America (1080p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?",
-      "rawUrl": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?",
-      "img": "https://i.imgur.com/8P8N2Ov.png"
     }
   ],
   "notifications": [
