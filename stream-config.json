@@ -194,7 +194,7 @@
     "enabled": true
   },
   "_meta": {
-    "activeProvider": "github",
-    "pointerAt": 1791731164814
+    "activeProvider": "supabase",
+    "pointerAt": 1791746552454
   }
 }
