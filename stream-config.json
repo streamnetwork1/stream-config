@@ -201,6 +201,16 @@
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png"
     },
     {
+      "id": "ch_1791730616026_17_58",
+      "badge": "EUS7",
+      "name": "ESPN (United States) (720p)",
+      "sub": "Sports",
+      "type": "live",
+      "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
+      "rawUrl": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
+    },
+    {
       "id": "ch_1791730616026_11_386",
       "badge": "E5LA",
       "name": "ESPN 5 Latin America (1080p)",
@@ -218,16 +228,6 @@
       "type": "live",
       "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
       "rawUrl": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_17_58",
-      "badge": "EUS7",
-      "name": "ESPN (United States) (720p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
-      "rawUrl": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
     },
     {
