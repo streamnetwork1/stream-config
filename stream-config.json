@@ -319,36 +319,6 @@
       "url": "http://190.128.214.97:64333/play/a02i/index.m3u8",
       "rawUrl": "http://190.128.214.97:64333/play/a02i/index.m3u8",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_23_802",
-      "badge": "EPC",
-      "name": "ESPN Premium (Chile)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8",
-      "rawUrl": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png"
-    },
-    {
-      "id": "ch_1791730616026_24_869",
-      "badge": "E7",
-      "name": "ESPNU (720p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
-      "rawUrl": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
-      "img": "https://i.imgur.com/HiBrysh.png"
-    },
-    {
-      "id": "ch_1791730616026_25_330",
-      "badge": "EH7",
-      "name": "ESPNU HD (720p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
-      "rawUrl": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
-      "img": "https://i.imgur.com/HiBrysh.png"
     }
   ],
   "notifications": [
