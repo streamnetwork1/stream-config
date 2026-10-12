@@ -1,116 +1,5 @@
 {
-  "channels": [
-    {
-      "id": "ch_1791686015145",
-      "badge": "HD",
-      "name": "WWE Money in the Bank 2026",
-      "sub": "2026",
-      "type": "live",
-      "url": "https://vidcore.org/embed/movie/1545690",
-      "rawUrl": "https://vidcore.org/embed/movie/1545690",
-      "img": "https://image.tmdb.org/t/p/w200/aqQ2Fen9XiWCLspfVgnVYwQfHg6.jpg"
-    },
-    {
-      "id": "ch_1790961504281",
-      "img": "https://i.ytimg.com/vi/36YnV9STBqc/mqdefault_live.jpg",
-      "sub": "The Good Life Radio x Sensual Musique",
-      "url": "https://www.youtube.com/embed/36YnV9STBqc?autoplay=1&controls=1&rel=0",
-      "name": "The Good Life Radio • 24/7 Live Radio | Best Relax House, Chillout, Study, Running, Gym, Happy Music",
-      "type": "yt",
-      "badge": "YT",
-      "rawUrl": "https://www.youtube.com/watch?v=36YnV9STBqc"
-    },
-    {
-      "id": "ch_1791136683973_0_896",
-      "img": "https://i.imgur.com/MyiA92q.png",
-      "sub": "Music",
-      "url": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8",
-      "name": "Clubbing TV UK (720p)",
-      "type": "live",
-      "badge": "CTU7",
-      "rawUrl": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8"
-    },
-    {
-      "id": "ch_1791138019499_0_575",
-      "img": "https://i.imgur.com/pXsZEsR.png",
-      "sub": "Movies",
-      "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
-      "name": "Sony One Hits Action (1080p)",
-      "type": "live",
-      "badge": "SOHA",
-      "rawUrl": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8"
-    },
-    {
-      "id": "ch_1791138020532_0_397",
-      "img": "https://i.imgur.com/8sHuxxS.png",
-      "sub": "Movies",
-      "url": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
-      "name": "Sony One Hits Comedie (1080p)",
-      "type": "live",
-      "badge": "SOHC",
-      "rawUrl": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8"
-    },
-    {
-      "id": "ch_1791138027868_0_387",
-      "img": "https://i.imgur.com/RO4AM4b.png",
-      "sub": "Movies",
-      "url": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
-      "name": "Sony One Favoris (1080p)",
-      "type": "live",
-      "badge": "SOF1",
-      "rawUrl": "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8"
-    },
-    {
-      "id": "ch_1791315216398_0_683",
-      "img": "https://i.imgur.com/OoJSmoj.png",
-      "sub": "Music",
-      "url": "https://bss1.neterra.tv/thevoice/thevoice.m3u8",
-      "name": "The Voice (720p)",
-      "type": "live",
-      "badge": "TV7",
-      "rawUrl": "https://bss1.neterra.tv/thevoice/thevoice.m3u8"
-    },
-    {
-      "id": "ch_1791730616026_17_58",
-      "badge": "EUS7",
-      "name": "ESPN (United States) (720p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
-      "rawUrl": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png"
-    },
-    {
-      "id": "ch_1791730596379_0_911",
-      "badge": "UN7",
-      "name": "USA Network (720p)",
-      "sub": "Comedy;Movies;Series;Sports",
-      "type": "live",
-      "url": "http://190.197.41.183/USA_NETWORK/index.m3u8",
-      "rawUrl": "http://190.197.41.183/USA_NETWORK/index.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"
-    },
-    {
-      "id": "ch_1791730598146_0_315",
-      "badge": "UNLA",
-      "name": "USA Network Latin America (1080p)",
-      "sub": "Undefined",
-      "type": "live",
-      "url": "http://138.121.15.230:9002/USA/index.m3u8",
-      "rawUrl": "http://138.121.15.230:9002/USA/index.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png"
-    },
-    {
-      "id": "ch_1791730616025_0_693",
-      "badge": "E2N3",
-      "name": "ESPN 2 (Netherlands) (360p)",
-      "sub": "Sports",
-      "type": "live",
-      "url": "https://lb.iptvnetwork.net/ls28/10042/playlist.m3u8",
-      "rawUrl": "https://lb.iptvnetwork.net/ls28/10042/playlist.m3u8",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png"
-    }
-  ],
+  "channels": [],
   "notifications": [
     {
       "id": "n_1790452984684",
@@ -120,7 +9,7 @@
     }
   ],
   "system": {
-    "enabled": false,
+    "enabled": true,
     "name": "SYSTEM",
     "badge": "SYS",
     "msg": "We'll Be Right Back",
@@ -181,7 +70,7 @@
     "accent": "#ffffff",
     "island": "#0c0c0c",
     "header": "#000000",
-    "bgImage": ""
+    "bgImage": "https://embed-player.com/video/?source=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&color=%2300000&preload=auto"
   },
   "layout": {
     "order": [
@@ -194,7 +83,7 @@
     "enabled": true
   },
   "_meta": {
-    "activeProvider": "supabase",
-    "pointerAt": 1791778296803
+    "activeProvider": "github",
+    "pointerAt": 1791827550780
   }
 }
