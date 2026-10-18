@@ -80,7 +80,7 @@
     ]
   },
   "comments": {
-    "enabled": false
+    "enabled": true
   },
   "_meta": {
     "activeProvider": "github",
