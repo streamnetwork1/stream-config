@@ -97,7 +97,7 @@
     ]
   },
   "comments": {
-    "enabled": true
+    "enabled": false
   },
   "_meta": {
     "activeProvider": "github",
