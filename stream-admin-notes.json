@@ -1,0 +1,31 @@
+{
+ "v": 1,
+ "updated": 1792853132971,
+ "tabs": [
+  {
+   "id": "n_movie",
+   "name": "Stream Movie",
+   "text": "",
+   "u": 0
+  },
+  {
+   "id": "n_tv",
+   "name": "Stream Network",
+   "text": "",
+   "u": 0
+  },
+  {
+   "id": "n_mgr",
+   "name": "Stream Manager",
+   "text": "",
+   "u": 0
+  },
+  {
+   "id": "n_general",
+   "name": "General",
+   "text": "",
+   "u": 0
+  }
+ ],
+ "del": {}
+}
