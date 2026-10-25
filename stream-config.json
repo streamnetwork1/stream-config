@@ -2,12 +2,6 @@
   "channels": [],
   "notifications": [
     {
-      "id": "n_1792423846593",
-      "title": "REFRESH SITE",
-      "body": "This site have update.",
-      "ts": 1792423846593
-    },
-    {
       "id": "n_1790452984684",
       "ts": 1790452984684,
       "body": "",
