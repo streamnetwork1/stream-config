@@ -63,9 +63,9 @@
       "infeed": true,
       "sidebar": true,
       "leftSide": true,
-      "rightSide": false,
+      "rightSide": true,
       "belowPlayer": true,
-      "mobileFooter": false
+      "mobileFooter": true
     }
   },
   "theme": {
